@@ -29,6 +29,7 @@ const StyledSocialList = styled.ul`
 
     a {
       padding: 10px;
+      color: var(--green);
 
       &:hover,
       &:focus {
