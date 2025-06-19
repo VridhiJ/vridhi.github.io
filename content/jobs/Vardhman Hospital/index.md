@@ -6,6 +6,6 @@ location: 'Ambala, India'
 range: 'June 2018 - Jan 2023'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Identified bottlenecks and led optimization of hospital IT systems, reducing downtime by 80% and improving reliability
+- Introduced a digital records system and trained staff, leading to a 15% drop in data entry errors and improved workflow
+- Spearheaded secure transition from physical to electronic records, enabling cloud-based access and 40% faster retrieval during peak demands
