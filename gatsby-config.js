@@ -12,10 +12,15 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-    `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
+    {
+      resolve: `gatsby-plugin-image`,
+      options: {
+        defaultFormats: [`auto`, `webp`, `jpg`],
+      },
+    },
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
