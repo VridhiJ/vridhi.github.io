@@ -5,9 +5,9 @@ module.exports = {
     title: 'Vridhi Jain',
     description:
       'Vridhi Jain is an engineer and researcher interested in building intelligent systems that work in the real world.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://vridhijain.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@jainvridhi03',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
