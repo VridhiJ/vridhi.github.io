@@ -1,10 +1,9 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2024-07-15'
+title: 'Research Assistant'
+company: 'ModLab, GRASP'
+location: 'Philadelphia, PA'
+range: 'Jan 2024 - July 2024'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS

@@ -1,10 +1,9 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2025-7-25'
+title: 'Teaching Assistant'
+company: 'University of Pennsylvania'
+location: 'Philadelphia, PA'
+range: 'July 2025 - Present'
 ---
 
 - Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS

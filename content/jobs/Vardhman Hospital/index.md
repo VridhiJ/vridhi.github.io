@@ -1,10 +1,9 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2023-01-29'
+title: 'Data Scientist'
+company: 'Vardhman Hospital'
+location: 'Ambala, India'
+range: 'June 2018 - Jan 2023'
 ---
 
 - Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
