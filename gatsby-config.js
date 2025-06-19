@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: process.env.PATH_PREFIX || '',
   siteMetadata: {
     title: 'Vridhi Jain',
     description:
