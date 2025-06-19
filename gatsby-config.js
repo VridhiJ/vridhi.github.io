@@ -26,7 +26,7 @@ module.exports = {
       resolve: `gatsby-plugin-sharp`,
       options: {
         defaults: {
-          formats: [`auto`, `webp`, `jpg`], // disables AVIF
+          formats: [`auto`, `webp`, `jpg`],
         },
         failOnError: false, // stops the build from failing on image errors
       },
