@@ -2,11 +2,11 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "homepage": "https://vridhij.github.io",
+  "homepage": "https://vridhi.github.io",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VridhiJ/vridhij.github.io"
+    "url": "https://github.com/VridhiJ/vridhi.github.io"
   },
   "keywords": [
     "gatsby"
