@@ -20,6 +20,7 @@ module.exports = {
       options: {
         defaultFormats: [`auto`, `webp`, `jpg`],
       },
+      failOnError: false,
     },
     {
       resolve: `gatsby-plugin-sharp`,
