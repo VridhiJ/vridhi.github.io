@@ -61,7 +61,9 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Vridhi Jain.</h2>;
-  const three = <h3 className="medium-heading">Data Scientist with 4+ years experience</h3>;
+  const three = (
+    <h3 className="medium-heading">Researcher and Data Scientist with 4+ years experience</h3>
+  );
   const four = (
     <a className="email-link" href="mailto:vridhi@seas.upenn.edu" target="_blank" rel="noreferrer">
       Connect with me!
