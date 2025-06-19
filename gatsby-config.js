@@ -27,6 +27,7 @@ module.exports = {
         defaults: {
           formats: [`auto`, `webp`, `jpg`], // disables AVIF
         },
+        failOnError: false, // stops the build from failing on image errors
       },
     },
     {
