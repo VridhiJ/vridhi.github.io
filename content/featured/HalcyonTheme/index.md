@@ -14,10 +14,3 @@ tech:
 
 Bias-aware headline classification using fine-tuned BERT and RoBERTa models on a balanced dataset from Fox News and NBC News.  
 Achieved 86% accuracy and 0.832 F1 score with Bayesian-optimized RoBERTa, exploring ensemble methods like soft voting and stacking. Deployed on Hugging Face with GPU batch inference for real-time classification.
-
-## Demo
-
-<video width="100%" controls>
-  <source src="/news_source_classification.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
