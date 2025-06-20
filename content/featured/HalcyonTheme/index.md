@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'News Source Classification'
+cover: './news_source_classification.png'
+github: 'https://github.com/VridhiJ/News-Source-Classification.git'
+external: 'https://huggingface.co/spaces/VridhiJain/News_Classifier'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - RoBERTa
+  - Hugging Face
+  - Gradio
+  - PyTorch
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Bias-aware headline classification using fine-tuned BERT and RoBERTa models on a balanced dataset from Fox News and NBC News.  
+Achieved 86% accuracy and 0.832 F1 score with Bayesian-optimized RoBERTa, exploring ensemble methods like soft voting and stacking. Deployed on Hugging Face with GPU batch inference for real-time classification.
