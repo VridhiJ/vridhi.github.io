@@ -1,7 +1,6 @@
 ---
 date: '3'
 title: 'Transformer from Scratch + Adapter Tuning'
-cover: './transformer.png'
 github: 'https://github.com/VridhiJ/LLMs/tree/main'
 tech:
   - PyTorch
