@@ -314,6 +314,7 @@ const Featured = () => {
           node {
             frontmatter {
               title
+              video
               cover {
                 childImageSharp {
                   gatsbyImageData(width: 700, placeholder: BLURRED, formats: [AUTO, WEBP])
@@ -403,7 +404,24 @@ const Featured = () => {
 
                 <div className="project-image">
                   <a href={external ? external : github ? github : '#'}>
-                    <GatsbyImage image={image} alt={title} className="img" />
+                    {frontmatter.video ? (
+                      <video
+                        autoPlay
+                        loop
+                        muted
+                        playsInline
+                        style={{
+                          width: '100%',
+                          height: '100%',
+                          borderRadius: 'var(--border-radius)',
+                          objectFit: 'cover',
+                        }}>
+                        <source src={frontmatter.video} type="video/mp4" />
+                        Your browser does not support the video tag.
+                      </video>
+                    ) : (
+                      <GatsbyImage image={image} alt={title} className="img" />
+                    )}
                   </a>
                 </div>
               </StyledProject>
