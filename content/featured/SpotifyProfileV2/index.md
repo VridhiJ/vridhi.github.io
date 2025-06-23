@@ -1,16 +1,18 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Transformer from Scratch + Adapter Tuning'
+cover: './transformer.png'
+github: 'https://github.com/VridhiJ/Transformer-Scratch-LoRA'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - PyTorch
+  - LoRA
+  - IA3
+  - Quantization
+  - GLUE
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+Built a transformer model from scratch using PyTorch, including multi-head attention and positional encoding for text classification.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Fine-tuned large language models using **LoRA** and **IA3** adapters, reducing trainable parameters by **99%** without sacrificing accuracy on GLUE benchmarks.
+
+Achieved **75% compression** using quantization-aware training and post-training quantization, maintaining competitive downstream performance.
