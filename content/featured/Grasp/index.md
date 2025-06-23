@@ -9,6 +9,7 @@ tech:
   - PPO
   - Matplotlib
   - Gymnasium
+cta: ''
 ---
 
 A reinforcement learning environment and control simulation for UAVs using RotorPy. Developed wind-aware planning policies, integrated IMU feedback, and optimized real-time flight performance in high-wind scenarios. Includes visualization of trajectory tracking and control metrics under varying wind conditions.
