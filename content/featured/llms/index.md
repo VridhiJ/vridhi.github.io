@@ -9,6 +9,7 @@ tech:
   - IA3
   - Quantization
   - GLUE
+external: ''
 ---
 
 Built a transformer from scratch in PyTorch with multi-head attention and positional encoding.
