@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Control and Planning of UAV'
 cover: './uav.mp4'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
