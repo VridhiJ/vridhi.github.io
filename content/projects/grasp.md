@@ -1,7 +1,6 @@
 ---
 date: '2'
 title: 'Control and Planning of UAV'
-cover: './uav.mp4'
 github: 'https://github.com/VridhiJ/Rotorpy_GRASP'
 tech:
   - Python
