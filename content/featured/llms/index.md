@@ -9,7 +9,7 @@ tech:
   - IA3
   - Quantization
   - GLUE
-  cta: ''
+cta: ''
 ---
 
 Built a transformer model from scratch using PyTorch, including multi-head attention and positional encoding for text classification.
