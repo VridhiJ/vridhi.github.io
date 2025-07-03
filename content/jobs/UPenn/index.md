@@ -6,12 +6,12 @@ location: 'Philadelphia, PA'
 range: 'July 2025 - Present'
 ---
 
-- Supported course instructors in preparing instructional materials and setting up classroom and lab environments
+- Supported instruction and lab development for robotics systems using Arduino ESP32-C3 and embedded C++
 
-- Provided in-class and lab assistance to enhance student engagement and learning outcomes
+- Assisted students in integrating hardware components with software logic, focusing on sensor data processing and control algorithms
 
-- Organized and led additional study and lab sessions to reinforce core concepts
+- Guided implementation of real-time robotics tasks involving motor control, serial communication, and microcontroller programming
 
-- Ensured adherence to classroom and laboratory protocols, promoting a safe and focused learning atmosphere
+- Led supplementary sessions to explain core robotics and ML-adjacent concepts such as PID control, sensor fusion, and data flow
 
-- Evaluated and graded assignments with attention to fairness and academic standards
+- Evaluated assignments with attention to embedded system constraints, execution efficiency, and functional accuracy
